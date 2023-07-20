@@ -1,5 +1,5 @@
  # 👋 Olá,sou Patrick Rodrigues,seja bem-vindo(a)!!
- ## Desenvolvedor de Software FullStack          
+ ## Desenvolvedor de Software          
             
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117969946cf9487cea77ca03fa29cd3d77924c4289&rid=giphy.gif&ct=g" align="right" widht="120" height="120"/>
 
