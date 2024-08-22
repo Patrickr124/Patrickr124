@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="center" alt="Pa-VsCode" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
-<img align="center" alt="Pa-ReactJS"
+<img align="center" alt="Pa-Reactjs"
 height="30" width="40"
 src="https://raw.githubusercontent.com/devico
 ns/devicon/master/icons/reactjs/reactjs
