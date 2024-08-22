@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 <img align="center" alt="Pa-React"
 height="30" width="40"
 src="https://raw.githubusercontent.com/devico
-ns/devicon/master/icons/reactjs/reactjs
+ns/devicon/master/icons/react/react
 -original.svg"/>
  
  </div>         
