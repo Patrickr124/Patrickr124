@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
  <img align="center" alt="Pa-Bootstrap" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Pa-NodeJS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="Pa-MySql" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Pa-Git"  height="30" width="40"         
@@ -45,9 +45,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 <img align="center" alt="Pa-React" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
 
+<img align="center" alt="Pa-Ts" height="30" width="40"         
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> 
 
 
-  </div>         
+ </div>         
   
   
   ##
