@@ -70,8 +70,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
     src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
     <img align="center" alt="Pa-SQLite" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
-
-<!-- NoSQL -->
 <img align="center" alt="Pa-MongoDB" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="Pa-Firebase" height="30" width="40"
@@ -93,8 +91,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   
   </div>
  
- ## 🐍 MINHAS CONTRIBUIÇÕES
-<img src="https://i.imgur.com/x9Pp6wD.gif" width="100%" alt="Snake animation" />
+ 
   
  
   
