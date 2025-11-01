@@ -38,19 +38,15 @@
   <img align="center" alt="Pa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Pa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  
-  <!-- Tailwind corrigido -->
   <img align="center" alt="Pa-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  
   <img align="center" alt="Pa-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Pa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Pa-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Pa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
   <img align="center" alt="Pa-API" height="30" width="40" src="https://img.icons8.com/ios-filled/50/api-settings.png">
   
-  <!-- Marvel substituído por versão em PNG (SVG do site da Marvel não carrega direto) -->
-  <img align="center" alt="Pa-Marvel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/512px-MarvelLogo.svg.png">
+  <!-- Marvel corrigido (PNG de fonte confiável) -->
+  <img align="center" alt="Pa-Marvel" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MarvelLogo.png">
   
   <img align="center" alt="Pa-POO" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
   <img align="center" alt="Pa-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
@@ -76,8 +72,9 @@
 ### <div align="right">👀 TOTAL DE VISITAS</div>
 <br>
 <div align="right">
-  <img src="https://profile-counter.glitch.me/Patrickr124/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Patrickr124&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitas"/>
 </div>
+
 
 
 
