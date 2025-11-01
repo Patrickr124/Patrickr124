@@ -45,8 +45,8 @@
   <img align="center" alt="Pa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Pa-API" height="30" width="40" src="https://img.icons8.com/ios-filled/50/api-settings.png">
   
-  <!-- Marvel corrigido (PNG de fonte confiável) -->
-  <img align="center" alt="Pa-Marvel" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MarvelLogo.png">
+ <img align="center" alt="Pa-Marvel" height="30" width="60" src="https://i.imgur.com/U9V8l6F.png">
+
   
   <img align="center" alt="Pa-POO" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
   <img align="center" alt="Pa-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
