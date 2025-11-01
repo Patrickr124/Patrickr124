@@ -1,13 +1,13 @@
  # 👋 Olá,sou Patrick Rodrigues,seja bem-vindo(a)!!
- ## Estudante de Desenvolvimento de Software          
+ ## Desenvolvedor Full Stack         
             
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117969946cf9487cea77ca03fa29cd3d77924c4289&rid=giphy.gif&ct=g" align="right" widht="120" height="120"/>  
 
-### **-📈Buscando oportunidade na área da Tecnologia!**
+### **-📈Buscando uma oportunidade na área da Tecnologia!**
 
-### **-📌Atualmente focado em aprender linguagens em Front-End e Back-End!**
+### **-📌Formado,em constante aperfeiçoamento nas áreas de Front-end e Back-end.Busco aplicar boas práticas e desenvolver projetos que unam performance e usabilidade!**
 
-### **-📚Estudante de Desenvolvimento de Software na StackX!**
+### **-📚Formado em Desenvolvimento de Software pela StackX!**
 
 ### **-😁Apresento-lhes aqui meu portfólio!**
 
@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickr124&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-## 💻 TECNOLOGIAS
+## 💻 TECNOLOGIAS,FERRAMENTAS,BANCO DE DADOS E CONTAINERS
 <div style="display: inline_block"><br>
   <img align="center" alt="Pa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Pa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,6 +48,38 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 <img align="center" alt="Pa-Ts" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> 
 
+  <img align="center" alt="Pa-Express" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+
+   <img align="center" alt="Pa-Tailwind" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+
+   <img align="center" alt="Pa-PostgreSQL" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Pa-Docker" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+    <img align="center" alt="Pa-GitLab" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Pa-Figma" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+    <img align="center" alt="Pa-API" height="30" width="40" 
+    src="https://img.icons8.com/ios-filled/50/000000/api.png" />
+  <img align="center" alt="Pa-Marvel" height="30" width="40" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/04/MarvelLogo.svg" />
+  <img align="center" alt="Pa-POO" height="30" width="40" 
+    src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
+    <img align="center" alt="Pa-SQLite" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+
+<!-- NoSQL -->
+<img align="center" alt="Pa-MongoDB" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="center" alt="Pa-Firebase" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+    
+
+    
+
 
  </div>         
   
@@ -61,7 +93,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   
   </div>
  
-   
+ ## 🐍 MINHAS CONTRIBUIÇÕES
+<img src="https://i.imgur.com/x9Pp6wD.gif" width="100%" alt="Snake animation" />
+  
  
   
  ###  <div align="right"> TOTAL DE VISITAS 👀 </div>
