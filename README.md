@@ -50,11 +50,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 
   <img align="center" alt="Pa-Express" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-
-   <img align="center" alt="Pa-Tailwind" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
-
-   <img align="center" alt="Pa-PostgreSQL" height="30" width="40" 
+    <img align="center" alt="Pa-Tailwind" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="center" alt="Pa-PostgreSQL" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Pa-Docker" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
@@ -64,8 +62,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
     <img align="center" alt="Pa-API" height="30" width="40" 
     src="https://img.icons8.com/ios-filled/50/000000/api.png" />
-  <img align="center" alt="Pa-Marvel" height="30" width="40" 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/04/MarvelLogo.svg" />
+  <img align="center" alt="Pa-Marvel" height="30" width="40"
+  src="https://upload.wikimedia.org/wikipedia/commons/0/04/MarvelLogo.svg" />
   <img align="center" alt="Pa-POO" height="30" width="40" 
     src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
     <img align="center" alt="Pa-SQLite" height="30" width="40"
@@ -75,16 +73,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
 <img align="center" alt="Pa-Firebase" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
     
-
-    
-
-
  </div>         
   
   
-  ##
-  
-## 📱 MEUS CONTATOS
+  ## 📱 MEUS CONTATOS
   <div>
   <a href = "mailto:patrickrs1001@gmail.com"><img height="28px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-  the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-rodrigues-764b87232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
@@ -93,9 +85,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
  
  
   
- 
-  
- ###  <div align="right"> TOTAL DE VISITAS 👀 </div>
+  ###  <div align="right"> TOTAL DE VISITAS 👀 </div>
    
    <br>
    
